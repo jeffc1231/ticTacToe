@@ -6,5 +6,3 @@ Medium
 Hard
 Unbeatable
 Choose X or O and let the game begin!
-
-Have fun!# ticTacToe
